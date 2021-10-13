@@ -200,7 +200,7 @@ section .title::after{
 .home .home-content a{
     display: inline-block;
     background: #64ffda;
-    color: #fff;
+    color: #111;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
@@ -250,7 +250,7 @@ section .title::after{
 .about .about-content .right a{
     display: inline-block;
     background: #64ffda;
-    color: #fff;
+    color: #111;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
@@ -337,7 +337,7 @@ section .title::after{
 .skills .skills-content .left a{
     display: inline-block;
     background: #64ffda;
-    color: #fff;
+    color: #111;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
@@ -476,7 +476,7 @@ section .title::after{
   align-items: center;
 }
 .right form .button-area button{
-  color: #fff;
+  color: #111;
   display: block;
   width: 160px!important;
   height: 45px;
